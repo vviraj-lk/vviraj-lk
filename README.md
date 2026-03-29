@@ -1,6 +1,14 @@
 <h1 align="center">Welcome to 👋 dev @ vviraj.lk</h1>
 <h3 align="center">A Tech enthusiast from Sri Lanka</h3>
 
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
 - 🔭 I’m currently working on my masters project **Warranty Management System**
 
 - 🌱 I’m currently learning **Salesforce app development and Gen AI**
