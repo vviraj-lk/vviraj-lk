@@ -9,6 +9,8 @@
     </picture>
 </div>
 
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vviraj-lk&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+
 - 🔭 I’m currently working on my masters project **Warranty Management System**
 
 - 🌱 I’m currently learning **Salesforce app development and Gen AI**
