@@ -8,8 +8,8 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vviraj-lk&theme=tokyonight) 
+| -- | -- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vviraj-lk&theme=tokyonight) |
 
 - 🔭 I’m currently working on my masters project **Warranty Management System**
 
