@@ -9,6 +9,8 @@
     </picture>
 </div>
 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vviraj-lk&theme=tokyonight) 
+
 - 🔭 I’m currently working on my masters project **Warranty Management System**
 
 - 🌱 I’m currently learning **Salesforce app development and Gen AI**
