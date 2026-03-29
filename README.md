@@ -10,8 +10,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/vviraj-lk?tab=overview">
-<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vviraj-lk&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vviraj-lk&theme=radical" alt="More Nish Stats" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vviraj-lk&theme=radical" alt="More Nish Stats" /></p>
 </a>
 </div>
 - 🔭 I’m currently working on my masters project **Warranty Management System**
