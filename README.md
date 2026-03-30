@@ -9,7 +9,7 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
+![](https://img.shields.io/github/languages/top/<OWNER>/<REPO>)
 ### 🚀 Full-Stack Developer | Oracle APEX • PHP • JavaScript
 With **11+ years in the IT field**, I’ve evolved from a Java background and deep Tech Support into a specialized Developer focusing on **Oracle APEX**, **PHP (Laravel/CodeIgniter)**, and **JavaScript**.
 
