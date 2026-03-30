@@ -9,16 +9,46 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
+# Hi there, I'm Vajira 👋 
 
-- 🔭 I’m currently working on my masters project **Warranty Management System**
+### 🚀 Full-Stack Developer | Oracle APEX • PHP • JavaScript
+With **11+ years in the IT field**, I’ve evolved from a Java background and deep Tech Support into a specialized Developer focusing on **Oracle APEX**, **PHP (Laravel/CodeIgniter)**, and **JavaScript**.
 
-- 🌱 I’m currently learning **Salesforce app development and Gen AI**
+---
 
-- 👯 I’m looking to collaborate on **Barcode Management System**
+### 🛠️ Tech Stack & Tools
 
-- 💬 Ask me about **PHP, Laravel, Python, Java, CodeIgniter**
+**Current Stack**
+![PHP](https://img.shields.io)
+![Laravel](https://img.shields.io)
+![CodeIgniter](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![Oracle APEX](https://img.shields.io)
 
-- 📫 How to reach me **vviraj.lk@gmail.com**
+**Foundations & Tools**
+![SQL](https://img.shields.io)
+![Python](https://img.shields.io)
+![Java](https://img.shields.io)
+![Virtualization](https://img.shields.io)
+
+---
+
+### 📂 What I'm Up To
+- 🎓 **Master's Project:** Currently building a **Warranty Management System**.
+- 🧪 **Learning:** Diving deep into **Salesforce App Development** and **Generative AI**.
+- 🤝 **Collaboration:** Looking to contribute to **Barcode Management Systems** or similar inventory logic.
+- 💬 **Ask me about:** PHP, Laravel, Python, Java, CodeIgniter, or fixing "unfixable" tech issues.
+
+---
+
+### 👨‍💻 Experience at a Glance
+- **Current:** 2+ years as an **Oracle APEX Developer**.
+- **Previous:** 2 years as an **Associate Programmer** and a decade-long background in **Tech Support** & **Virtualization**.
+- **The Roots:** Started in **Java** and **.NET** over 10 years ago.
+
+### 📫 Reach Me
+📧 Email: [vviraj.lk@gmail.com](mailto:vviraj.lk@gmail.com)  
+🔗 LinkedIn: [Your LinkedIn Profile Link]
 
 <h3 align="left">Connect with me:</h3>
 
