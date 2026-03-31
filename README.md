@@ -43,14 +43,6 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 - **Previous:** 2 years as an **Associate Programmer** and a decade-long background in **Tech Support** & **Virtualization**.
 - **The Roots:** Started in **Java** and **.NET** over 10 years ago.
 
-### 📫 Reach Me
-📧 Email: [vviraj.lk@gmail.com](mailto:vviraj.lk@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile Link]
-
-<h3 align="left">Connect with me:</h3>
-
----
-
 ## 🚀 Top Languages
 
 <p align="left">
@@ -59,6 +51,16 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
+
+---
+
+### 📫 Reach Me
+📧 Email: [vviraj.lk@gmail.com](mailto:vviraj.lk@gmail.com)  
+🔗 LinkedIn: [Your LinkedIn Profile Link]
+
+<h3 align="left">Connect with me:</h3>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
