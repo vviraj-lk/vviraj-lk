@@ -57,7 +57,7 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 
 ### 📫 Reach Me
 📧 Email: [vviraj.lk@gmail.com](mailto:vviraj.lk@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile Link]
+🔗 LinkedIn: [Your LinkedIn Profile Link](https://www.linkedin.com/in/vajira-viraj-nanayakkarawasam-g-l-9b447355/)]
 
 <h3 align="left">Connect with me:</h3>
 
