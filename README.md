@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to 👋 dev @ vviraj.lk</h1>
+<h1 align="center">Welcome to 👋 virajdev</h1>
 <h3 align="center">A Tech enthusiast from Sri Lanka</h3>
 
 <div align="center">
