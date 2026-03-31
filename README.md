@@ -48,11 +48,7 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 🔗 LinkedIn: [Your LinkedIn Profile Link]
 
 <h3 align="left">Connect with me:</h3>
-
-<div>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vviraj-lk&layout=default&theme=default)
-</div>
-
+---
 
 ## 🚀 Top Languages
 
