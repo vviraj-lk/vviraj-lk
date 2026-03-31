@@ -17,11 +17,11 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 
 ### 🛠️ Tech Stack & Tools
 
-**Foundations & Tools**
-![SQL](https://img.shields.io)
-![Python](https://img.shields.io)
-![Java](https://img.shields.io)
-![Virtualization](https://img.shields.io)
+**Foundations & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
@@ -57,8 +57,6 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
