@@ -39,6 +39,7 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 ---
 
 ### 👨‍💻 Experience at a Glance
+- **Overall:** 11+ years in the IT field**.
 - **Current:** 2+ years as an **Oracle APEX Developer**.
 - **Previous:** 2 years as an **Associate Programmer** and a decade-long background in **Tech Support** & **Virtualization**.
 - **The Roots:** Started in **Java** and **.NET** over 10 years ago.
