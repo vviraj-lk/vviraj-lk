@@ -10,6 +10,10 @@
     </picture>
 </div>
 
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 ### 🚀 Full-Stack Developer | Oracle APEX • PHP • JavaScript
 With **11+ years in the IT field**, I’ve evolved from a Java background and deep Tech Support into a specialized Developer focusing on **Oracle APEX**, **PHP (Laravel/CodeIgniter)**, and **JavaScript**.
 
