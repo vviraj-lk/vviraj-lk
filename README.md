@@ -163,3 +163,13 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vviraj-lk&theme=radical" alt="More Viraj's Stats" /></p>
 </a>
 </div>
+
+<br>
+
+<!--<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vviraj-lk/vviraj-lk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vviraj-lk/vviraj-lk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vviraj-lk/vviraj-lk/output/pacman-contribution-graph.svg">
+</picture>
+</div>-->
