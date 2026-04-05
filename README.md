@@ -24,6 +24,12 @@
     </picture>
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/vviraj-lk/vviraj-lk/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
