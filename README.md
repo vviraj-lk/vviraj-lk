@@ -149,7 +149,15 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vviraj-lk&show_icons=true&locale=en&layout=compact" alt="vviraj-lk" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vviraj-lk&show_icons=true&locale=en&layout=compact" alt="vviraj-lk" /></p>
+-->
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vviraj-lk.vviraj-lk&"  />
+</div>
+
+<br>
+
 <div align="center">
 <a href="https://github.com/vviraj-lk?tab=overview">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vviraj-lk&theme=radical" alt="More Viraj's Stats" /></p>
