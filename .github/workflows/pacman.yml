@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate Pac-Man animation
 
 on:
   schedule: # execute every 12 hours
