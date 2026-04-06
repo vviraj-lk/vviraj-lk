@@ -180,8 +180,8 @@ With **11+ years in the IT field**, I’ve evolved from a Java background and de
 </div>
 
 </br>
-<!--
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/vviraj-lk/vviraj-lk/output/snake.svg" alt="Snake animation" />
 </div>
--->
+
